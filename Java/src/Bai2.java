@@ -10,6 +10,10 @@ public class Bai2{
         System.out.println("Grade Point Average: " + gpa);
          System.out.println("School " + age);
         System.out.println("Class: " + gpa);
+        
+           System.out.println("G1: " + gpa);
+         System.out.println("S2 " + age);
+        System.out.println("C3 " + gpa);
     }
 }
 
