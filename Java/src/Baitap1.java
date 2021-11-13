@@ -16,6 +16,10 @@ public class Baitap1 {
         char gioitinh = s.next().charAt(0);
         System.out.println("Quê quán: ");
         String quequan = s.nextLine();
+        
+        
+           System.out.println("Chiều Cao: "); // Test
+        String chieucao = s.next(); // Test
 
     String format = String.format("STT %-22s%-22s", hoten ,namsinh );
         System.out.println("format");
